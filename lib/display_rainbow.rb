@@ -3,5 +3,5 @@ letter = ["R:", "O:", "Y:", "G:", "B:", "I:", "V:"]
 color = ["red", "orange", "yellow", "green", "blue", "indigo", "violet"]
 
 def display_rainbow(colors)
-  puts "#{letters[0]} #{colors[0]}, #{letters[1]} #{colors[1]}, #{letters[2]} #{colors[2]}, #{letters[3]} #{colors[3]}, #{letters[4]} #{colors[4]}, #{letters[5]} #{colors[5]}, #{letters[6]} #{colors[6]}"
+  puts "#{letter[0]} #{color[0]}, #{letter[1]} #{color[1]}, #{letter[2]} #{color[2]}, #{letter[3]} #{color[3]}, #{letter[4]} #{color[4]}, #{letter[5]} #{color[5]}, #{letter[6]} #{color[6]}"
 end
